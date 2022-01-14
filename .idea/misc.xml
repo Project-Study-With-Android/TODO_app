@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/cys/Desktop/source/MyTodo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/cys/Desktop/source/MyTodo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/cys/Desktop/source/MyTodo/app/src/main/res/font-v26/font.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/cys/Desktop/source/MyTodo/app/src/main/res/font/bfont.xml" value="0.234375" />
+        <entry key="..\:/Users/cys/Desktop/source/MyTodo/app/src/main/res/font/font.xml" value="0.203125" />
+        <entry key="..\:/Users/cys/Desktop/source/MyTodo/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/cys/Desktop/source/MyTodo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
         <entry key="..\:/Users/cys/Desktop/source/TODO_app/MyTodo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.403125" />
         <entry key="..\:/Users/cys/Desktop/source/TODO_app/MyTodo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.403125" />
         <entry key="..\:/Users/cys/Desktop/source/TODO_app/MyTodo/app/src/main/res/layout/activity_main.xml" value="0.34556159420289856" />
